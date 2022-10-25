@@ -1,5 +1,3 @@
-# stock-analysis
-
 # VBA Challenge Analysis
 
 ## Overview of Project
