@@ -1,5 +1,5 @@
 # stock-analysis
-![2018 Analysis]
+
 # VBA Challenge Analysis
 
 ## Overview of Project
@@ -10,7 +10,7 @@
 
 ### Image 1 shows the stock performance of the original code as well as the execution time. Image 2 shows the performance for the refactored code and the execiton time.
 ![Image 1](https://github.com/yadidevop/stock-analysis/blob/main/Resources/VBA_Challenge%20(2).png)
-![Image 2] (https://github.com/yadidevop/stock-analysis/blob/main/Resources/VBA_Challenge%20refactor.png)
+![Image 2](https://github.com/yadidevop/stock-analysis/blob/main/Resources/VBA_Challenge%20refactor.png)
 
 ## Summary
 
